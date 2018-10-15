@@ -24,6 +24,12 @@ This document details about online store, user shopping, checkout, discount and 
 
 4.session management is out of scope 
 
+# Tools used
+1. Java 8
+2. Maven 
+3. Junit 
+4. EclEmma 
+5. Eclipse 
 
 
 # User stories 
