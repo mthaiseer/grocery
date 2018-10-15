@@ -30,7 +30,9 @@ As a member, I want to checkout, so discount will be applied and generate bill
 3. CustomeBuilder - create Affiliate/Member/Employee, also assign percentage discount 
 4. OnlineGroceryAllTest - all test cases
 
-#How to run 
-1. clone 
+# How to run 
+1. clone  https://github.com/mthaiseer/grocery.git
+2. Run 
+
 
 
