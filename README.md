@@ -64,5 +64,7 @@ https://github.com/mthaiseer/grocery/blob/master/onlineshop/Online%20Grocery%20S
 		float netPayableAmount = shop.checkout(customer.getCart());
 
 
-
-
+# Code coverage
+I have used EclEmma eclipse plugin to assess code coverage, I could achive 80% code coverage 
+You can find snapshot here 
+https://github.com/mthaiseer/grocery/blob/master/onlineshop/Code_coverage.png
