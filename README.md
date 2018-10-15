@@ -44,5 +44,9 @@ As a member, I want to checkout, so discount will be applied and generate bill
 1. clone  https://github.com/mthaiseer/grocery.git
 2. Run ShopNowTest.java as test case
 
+# use case and class diagram are found here
+https://github.com/mthaiseer/grocery/blob/master/onlineshop/Online%20Grocery%20System.docx
+
+
 
 
