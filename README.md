@@ -47,6 +47,22 @@ As a member, I want to checkout, so discount will be applied and generate bill
 # use case and class diagram are found here
 https://github.com/mthaiseer/grocery/blob/master/onlineshop/Online%20Grocery%20System.docx
 
+# Basic code flow
+    //create shop
+    Shop shop = new Shop();
+    //create customer using builder pattern 
+		Customer customer = createEmployeeCustomer();
+    //know customer and shop each other
+		shop.login(customer);
+    customer.startSession(shop); 
+
+    //Add item to cart 
+		customer.addProductToCart(rice());
+		customer.addProductToCart(mobile());
+    
+		//calculate total, apply discounts and generate final bill
+		float netPayableAmount = shop.checkout(customer.getCart());
+
 
 
 
