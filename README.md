@@ -32,7 +32,7 @@ As a member, I want to checkout, so discount will be applied and generate bill
 
 # How to run 
 1. clone  https://github.com/mthaiseer/grocery.git
-2. Run 
+2. Run ShopNowTest.java as test case
 
 
 
