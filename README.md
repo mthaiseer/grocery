@@ -4,19 +4,18 @@ This document details about online store, user shopping, checkout, discount and 
 
 # Functional requirement 
 
-Customer can login to online store 
-Customer select new cart
-Customer add or remove Products to cart
-Customer proceed to checkout 
-Store calculate discount and generate invoice 
-Customer make payment 
-Customer select logout 
+1.Customer can login to online store 
+2.Customer select new cart
+3.Customer add or remove Products to cart
+4.Customer proceed to checkout 
+5.Store calculate discount and generate invoice 
+
 
 # Assumptions 
-database and related operations are out-of-scope
-UI components are out-of-scope
-payment and proceeding are out-of-scope
-session management is out of scope 
+1.database and related operations are out-of-scope
+2.UI components are out-of-scope
+3.payment and proceeding are out-of-scope
+4.session management is out of scope 
 
 
 # User stories 
